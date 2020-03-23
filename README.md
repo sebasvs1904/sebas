@@ -6,7 +6,3 @@ Vídeos en youtube:<br>
 Recursos de los vídeos:<br>
 http://fontello.com/<br>
 https://fonts.google.com/<br><br>
-
-Cómo publicar tu sitio:<br>
-https://www.youtube.com/watch?v=OEzZp3ldNx0<br>
-https://devcode.la/tutoriales/publicar-tu-web-usando-github-pages/<br>
